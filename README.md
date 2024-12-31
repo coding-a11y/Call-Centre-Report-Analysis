@@ -1,10 +1,11 @@
 # Call-Centre-Report-Analysis
 ### Dashboard Link - https://app.powerbi.com/links/2RGpS7YdPn?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=897bc594-490d-4133-af31-ca20518e82aa
 ## Problem Statement
-![image](https://github.com/user-attachments/assets/e20903f9-f63a-4327-bc6a-6c54c56d1e94)
-
 
 Call Centre Performance Analysis Report
+![image](https://github.com/user-attachments/assets/f6f6fe4b-498e-44b6-b39c-265c390fe56a)
+![image](https://github.com/user-attachments/assets/2bc14740-0c74-4c41-9f4f-4c39961fb87d)
+
 Report Summary:
 This report analyzes the key performance metrics, customer feedback, and operational data for the call center to improve service quality, efficiency, and customer satisfaction. The report was created using Power BI Desktop and published to Power BI Service to provide real-time insights into call center operations. The dashboard highlights essential metrics such as call volume, average call handling time, first call resolution, and customer satisfaction ratings, aiming to optimize call center performance and enhance customer experience.
 
