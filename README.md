@@ -1,7 +1,7 @@
 # Call-Centre-Report-Analysis
 ### Dashboard Link - https://app.powerbi.com/links/2RGpS7YdPn?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=897bc594-490d-4133-af31-ca20518e82aa
 ## Problem Statement
-
+file:///C:/Users/AYUSH/Downloads/Customer%20Churn%20Dashboard.pdf
 
 Call Centre Performance Analysis Report
 Report Summary:
